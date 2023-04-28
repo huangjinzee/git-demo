@@ -1,2 +1,2 @@
 hello git 
-changed by hot-fix
+changed by hot-fix master test

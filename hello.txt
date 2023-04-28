@@ -1,2 +1,3 @@
 hello git 
 changed by hot-fix
+hot-fix test
